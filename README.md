@@ -13,7 +13,7 @@ FH-Prof. Dipl.-Ing. Dr. techn. Klaus Gebeshuber
 Author:
 Markus Wolf, BSc
 
-Abstract
+Abstract:
 Automotive vehicles become smarter and more connected every year. Numerous
 interaction interfaces, proprietary implementations and lacking security mechanisms
 for ECUs and internal networks build up an attack surface that makes vehicles an
